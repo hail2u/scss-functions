@@ -1,0 +1,9 @@
+// unitless() - Convert any number with unit to unitless number.
+//
+// @param {number} $number Number with unit
+// @return {number}
+@function unitless($number) {
+  $number: ($number / (($number * 0) + 1));
+
+  @return $number;
+}
