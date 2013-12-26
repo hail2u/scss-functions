@@ -1,0 +1,8 @@
+{
+  "name": "hail2u-scss-functions",
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    "bower.json"
+  ]
+}
