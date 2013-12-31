@@ -1,0 +1,20 @@
+.adjust-rgb {
+  color: #333333; }
+
+.blend-normal {
+  color: #cccccc; }
+
+.encode-color-hex {
+  content: "%23ffcc00"; }
+
+.encode-color-func {
+  content: "rgba(255%2C255%2C255%2C0.5)"; }
+
+.mixxd {
+  color: #cccccc; }
+
+.tint {
+  color: #333333; }
+
+.shade {
+  color: #cccccc; }
