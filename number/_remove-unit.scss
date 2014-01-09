@@ -1,8 +1,8 @@
-// unitless() - Convert any number with unit to unitless number.
+// remove-unit() - Remove unit from any number.
 //
 // @param {number} $number Number with unit
 // @return {number}
-@function unitless($number) {
+@function remove-unit($number) {
   $number: ($number / (($number * 0) + 1));
 
   @return $number;

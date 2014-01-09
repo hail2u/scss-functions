@@ -10,8 +10,8 @@
   line-height: pow(1.2, 4);
 }
 
-@import '../../number/unitless';
+@import '../../number/remove-unit';
 
-.unitless {
-  line-height: unitless(1.5em);
+.remove-unit {
+  line-height: remove-unit(1.5em);
 }
