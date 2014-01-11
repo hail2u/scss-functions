@@ -15,3 +15,9 @@
 .remove-unit {
   line-height: remove-unit(1.5em);
 }
+
+@import '../../number/fibonacci';
+
+.fibonacci {
+  line-height: fibonacci(8);
+}
