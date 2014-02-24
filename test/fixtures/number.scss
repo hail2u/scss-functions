@@ -21,3 +21,9 @@
 .fibonacci {
   line-height: fibonacci(8);
 }
+
+@import '../../number/rem';
+
+.rem {
+  width: rem(1.6);
+}
