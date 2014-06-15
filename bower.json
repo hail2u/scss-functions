@@ -4,8 +4,10 @@
   "ignore": [
     "**/.*",
     "bower.json",
-    "Gruntfile.js",
+    "tmp",
     "package.json",
-    "test"
+    "node_modules",
+    "test",
+    "Gruntfile.js"
   ]
 }
