@@ -1,7 +1,7 @@
 {
   "name": "hail2u-scss-functions",
   "description": "Drop-in Sassy CSS functions.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "Kyo Nagashima <hail2u@gmail.com> (https://kyonagashima.com/)",
   "bugs": {
     "url": "https://github.com/hail2u/scss-functions/issues"
