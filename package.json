@@ -7,9 +7,9 @@
     "url": "https://github.com/hail2u/scss-functions/issues"
   },
   "devDependencies": {
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-nodeunit": "~0.2.2",
-    "grunt-contrib-sass": "~0.6.0"
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-contrib-sass": "^0.8.1"
   },
   "files": [
     "Gruntfile.js",
