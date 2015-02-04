@@ -3,3 +3,6 @@
 
 .str-replace-once {
   content: "lprem ipsum dolor sit amet"; }
+
+.str-replace-once-at-start {
+  content: "Lorem ipsum dolor sit amet"; }
