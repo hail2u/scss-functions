@@ -11,24 +11,13 @@
     "grunt-contrib-nodeunit": "^0.4.1",
     "grunt-contrib-sass": "^0.8.1"
   },
-  "files": [
-    "Gruntfile.js",
-    "README.md",
-    "color",
-    "list",
-    "misc",
-    "number",
-    "package.json",
-    "string",
-    "test"
-  ],
   "homepage": "https://github.com/hail2u/scss-functions",
   "keywords": [
-    "sass",
-    "scss",
-    "partial",
     "css",
-    "function"
+    "function",
+    "partial",
+    "sass",
+    "scss"
   ],
   "license": "Unlicense",
   "repository": {
